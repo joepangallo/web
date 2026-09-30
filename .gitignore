@@ -5,3 +5,7 @@
 # stays beside the repo rather than in it — this repository is public.
 *Web-Development-I.pdf
 *[Ss]yllabus*.pdf
+
+# Quiz import files and answer keys contain the answers, so they stay out of
+# this repo (and out of the public mirror).
+quizzes/
